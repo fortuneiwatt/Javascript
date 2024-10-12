@@ -14,7 +14,7 @@ function sum2(a, b) {
 }
 //call the function
 sum1(100, 50);
-const result = sum2(2, 60);
+const result = sum2(6, 55);
 console.log(result);
 
 // function expression

@@ -1,4 +1,4 @@
-//javacript object literal
+// javacript object literal
 
 const person = {
     firstName: "fortune",
@@ -14,7 +14,7 @@ const person = {
 };
 
 const car = {
-    brand: "",
+    brand: "Benz",
     name: "",
     model: "",
     year: "",

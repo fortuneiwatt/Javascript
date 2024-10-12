@@ -5,7 +5,7 @@ var a = 10;
 let b = 5; //let varaible the varaible will change
 const c = 3;
 
-var a = 30;
+var a = 1;
 
 let sum = a * b
 
@@ -15,7 +15,7 @@ console.log({a, b, c, sum});
 // number, string, boolean, BigInt
 
 const num = 1
-const str = "Monet"
+const str = "Tageda"
 const bool = true | false
 const nullable = null
 const und = undefined
